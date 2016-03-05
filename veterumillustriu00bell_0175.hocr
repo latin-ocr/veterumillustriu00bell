@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumillustriu00bell_0175.png"; bbox 0 0 2336 3700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1304 475 2072 478">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1304 475 2072 478">
+     <span class='ocr_line' id='line_1_1' title="bbox 1304 475 2072 478; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1304 475 2072 478; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 182 503 2186 2853">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 182 503 2186 2853">
+     <span class='ocr_line' id='line_1_2' title="bbox 182 503 2186 2853; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 182 503 2186 2853; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1002 2930 1312 2993">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1002 2930 1312 2993">
+     <span class='ocr_line' id='line_1_3' title="bbox 1002 2930 1312 2993; baseline -0.01 0"><span class='ocrx_word' id='word_1_3' title='bbox 1002 2930 1312 2993; x_wconf 76' lang='lat' dir='ltr'>POETA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 727 3048 2152 3181">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 727 3033 2152 3181">
+     <span class='ocr_line' id='line_1_4' title="bbox 727 3048 2152 3181; baseline -0.008 -74"><span class='ocrx_word' id='word_1_4' title='bbox 727 3055 935 3134; x_wconf 61' lang='lat' dir='ltr'>proposito</span> <span class='ocrx_word' id='word_1_5' title='bbox 956 3058 1129 3132; x_wconf 58' lang='lat' dir='ltr'>prmum</span> <span class='ocrx_word' id='word_1_6' title='bbox 1157 3053 1335 3105; x_wconf 65' lang='lat' dir='ltr'>carmina</span> <span class='ocrx_word' id='word_1_7' title='bbox 1366 3049 1542 3103; x_wconf 62' lang='lat' dir='ltr'>fecimus</span> <span class='ocrx_word' id='word_1_8' title='bbox 2148 3048 2152 3181; x_wconf 66' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 230 3225 2107 3228">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 230 3225 2107 3228">
+     <span class='ocr_line' id='line_1_5' title="bbox 230 3225 2107 3228; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 230 3225 2107 3228; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

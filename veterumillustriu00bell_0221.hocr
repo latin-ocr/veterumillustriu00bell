@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumillustriu00bell_0221.png"; bbox 0 0 2336 3700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 634 2869 1549 3022">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 634 2869 1549 3022">
+     <span class='ocr_line' id='line_1_1' title="bbox 634 2869 1549 2956; baseline -0.003 -31"><span class='ocrx_word' id='word_1_1' title='bbox 634 2870 837 2952; x_wconf 58' lang='lat' dir='ltr'><strong>Insignis</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 861 2869 1022 2926; x_wconf 72' lang='lat' dir='ltr'>Rhetor</span> <span class='ocrx_word' id='word_1_3' title='bbox 1038 2870 1276 2926; x_wconf 70' lang='lat' dir='ltr'>Aeschinis</span> <span class='ocrx_word' id='word_1_4' title='bbox 1313 2890 1549 2956; x_wconf 63' lang='lat' dir='ltr'><strong>froeceptor</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 826 2957 1354 3022; baseline -0.004 -23"><span class='ocrx_word' id='word_1_5' title='bbox 826 2957 936 3022; x_wconf 67' lang='lat' dir='ltr'><strong>Apud</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 961 2959 1188 3000; x_wconf 71' lang='lat' dir='ltr'><strong>Cmdmalem</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1210 2963 1354 3000; x_wconf 53' lang='lat' dir='ltr'><strong>caestum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1914 3006 1986 3039">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1914 3006 1986 3039">
+     <span class='ocr_line' id='line_1_3' title="bbox 1914 3006 1986 3039; baseline 0.014 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1914 3006 1986 3039; x_wconf 62' lang='lat'><strong>5³31</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 795 2763 1256 2821">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 795 2763 1256 2821">
+     <span class='ocr_line' id='line_1_4' title="bbox 795 2763 1256 2821; baseline 0.002 -2"><span class='ocrx_word' id='word_1_9' title='bbox 795 2763 1256 2821; x_wconf 79' lang='lat' dir='ltr'><strong>LEODAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1280 2766 1395 2818">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1280 2766 1395 2818">
+     <span class='ocr_line' id='line_1_5' title="bbox 1280 2766 1395 2818; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1280 2766 1395 2818; x_wconf 81' lang='lat' dir='ltr'><strong>AS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 546 878 1644 2625">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 546 878 1644 2625">
+     <span class='ocr_line' id='line_1_6' title="bbox 546 878 1644 2625; textangle 180"><span class='ocrx_word' id='word_1_11' title='bbox 546 878 1644 2625; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

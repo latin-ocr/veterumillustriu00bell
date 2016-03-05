@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumillustriu00bell_0016.png"; bbox 0 0 2336 3700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 315 0 2336 3700">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 315 0 2336 3700">
+     <span class='ocr_line' id='line_1_1' title="bbox 315 0 2336 3700; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 315 0 2336 3700; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 379 2775 493 2801">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 379 2775 493 2801">
+     <span class='ocr_line' id='line_1_2' title="bbox 379 2775 493 2801; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 379 2775 389 2795; x_wconf 62' lang='grc' dir='ltr'><em>θ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 420 2776 445 2797; x_wconf 80' lang='lat'><em>&#39;·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 468 2783 493 2801; x_wconf 74' lang='grc' dir='ltr'><em>ι,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 725 2846 791 2868">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 725 2846 791 2868">
+     <span class='ocr_line' id='line_1_3' title="bbox 725 2846 791 2868; baseline 0.03 -11"><span class='ocrx_word' id='word_1_5' title='bbox 725 2862 731 2868; x_wconf 45' lang='lat'>⁴</span> <span class='ocrx_word' id='word_1_6' title='bbox 764 2846 791 2865; x_wconf 48' lang='lat' dir='ltr'><em>ev</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 696 3600 975 3700">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 696 3600 975 3700">
+     <span class='ocr_line' id='line_1_4' title="bbox 696 3600 975 3700; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 696 3600 975 3700; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

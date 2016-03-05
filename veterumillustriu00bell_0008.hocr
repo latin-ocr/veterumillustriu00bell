@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumillustriu00bell_0008.png"; bbox 0 0 2336 3700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 1661 2011 1994">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 330 1661 2011 1994">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 1661 1737 1784; baseline 0.002 -18"><span class='ocrx_word' id='word_1_1' title='bbox 604 1661 902 1784; x_wconf 55' lang='lat' dir='ltr'>Digitizbd</span> <span class='ocrx_word' id='word_1_2' title='bbox 935 1707 1013 1784; x_wconf 74' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 1040 1707 1148 1768; x_wconf 65' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1183 1707 1446 1768; x_wconf 64' lang='lat' dir='ltr'>tutemet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1474 1707 1737 1768; x_wconf 65' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 721 1812 1617 1889; baseline 0 -18"><span class='ocrx_word' id='word_1_6' title='bbox 721 1812 773 1871; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 804 1814 977 1873; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 1006 1812 1143 1873; x_wconf 74' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1173 1812 1432 1889; x_wconf 70' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1462 1812 1617 1873; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 330 1917 2011 1994; baseline 0.001 -18"><span class='ocrx_word' id='word_1_11' title='bbox 330 1917 663 1978; x_wconf 67' lang='lat' dir='ltr'>Hesearch</span> <span class='ocrx_word' id='word_1_12' title='bbox 698 1917 951 1994; x_wconf 63' lang='lat' dir='ltr'>Libram,</span> <span class='ocrx_word' id='word_1_13' title='bbox 984 1917 1117 1978; x_wconf 75' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_14' title='bbox 1148 1917 1335 1994; x_wconf 80' lang='lat' dir='ltr'>Getty</span> <span class='ocrx_word' id='word_1_15' title='bbox 1368 1917 1701 1978; x_wconf 66' lang='lat' dir='ltr'>Hesearch</span> <span class='ocrx_word' id='word_1_16' title='bbox 1738 1917 2011 1978; x_wconf 69' lang='lat' dir='ltr'><strong>institute</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 257 3448 2081 3525">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 257 3448 2081 3525">
+     <span class='ocr_line' id='line_1_4' title="bbox 257 3448 2081 3525; baseline 0.001 -18"><span class='ocrx_word' id='word_1_17' title='bbox 257 3448 2081 3525; x_wconf 67' lang='lat' dir='ltr'>http:slwwwarchiveorqldetailslveterumillustrinObell</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

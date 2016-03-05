@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumillustriu00bell_0195.png"; bbox 0 0 2336 3700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 694 799 1876 818">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 694 799 1876 818">
+     <span class='ocr_line' id='line_1_1' title="bbox 694 799 1876 818; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 694 799 1876 818; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 431 940 1853 1543">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 421 923 1907 1582">
+     <span class='ocr_line' id='line_1_2' title="bbox 535 940 1535 1103; baseline 0.01 -10.844"><span class='ocrx_word' id='word_1_2' title='bbox 535 940 545 951; x_wconf 71' lang='lat'><em>‘</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 737 970 1535 1103; x_wconf 74' lang='lat' dir='ltr'>IMAGINES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 431 1223 1827 1326; baseline 0.007 -11"><span class='ocrx_word' id='word_1_4' title='bbox 431 1223 1057 1317; x_wconf 62' lang='lat' dir='ltr'>÷WTERVM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1092 1229 1827 1326; x_wconf 68' lang='lat' dir='ltr'>ILWSTRIVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 454 1447 1853 1543; baseline 0.008 -15.752"><span class='ocrx_word' id='word_1_6' title='bbox 454 1447 1077 1534; x_wconf 77' lang='lat' dir='ltr'>RHETORVM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1099 1454 1240 1535; x_wconf 76' lang='lat' dir='ltr'>Ac</span> <span class='ocrx_word' id='word_1_8' title='bbox 1276 1455 1853 1543; x_wconf 63' lang='lat' dir='ltr'><strong>ORATORW</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 736 1800 1543 1898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 736 1800 1543 1898">
+     <span class='ocr_line' id='line_1_5' title="bbox 736 1800 1543 1898; baseline 0.012 -10"><span class='ocrx_word' id='word_1_9' title='bbox 736 1800 1035 1891; x_wconf 79' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1093 1804 1543 1898; x_wconf 82' lang='lat' dir='ltr'>TERTIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 410 776 1897 2818">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 410 776 1897 2818">
+     <span class='ocr_line' id='line_1_6' title="bbox 410 776 1897 2818; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 410 776 1897 2818; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1874 940 1878 2789">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1874 940 1878 2789">
+     <span class='ocr_line' id='line_1_7' title="bbox 1874 940 1878 2789; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 1874 940 1878 2789; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 532 2791 1790 2795">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 532 2791 1790 2795">
+     <span class='ocr_line' id='line_1_8' title="bbox 532 2791 1790 2795; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 532 2791 1790 2795; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
